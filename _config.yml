@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Andrey Ilinykh's blog
+show_downloads: false
+github:
+  is_project_page: false
