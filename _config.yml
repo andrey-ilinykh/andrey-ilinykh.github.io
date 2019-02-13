@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: minima
 title: Andrey Ilinykh's blog
 show_downloads: false
 github:
