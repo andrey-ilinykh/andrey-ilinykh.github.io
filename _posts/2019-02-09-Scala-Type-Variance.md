@@ -1,6 +1,6 @@
 ---
 layout: post
-authot: Andrey Ilinykh
+author: Andrey Ilinykh
 ---
 
 Type variance is an important part of scala type system. If you use scala for application programming, you probably don't pay much 
